@@ -1,6 +1,6 @@
 # Your Name
 
-![He Kong]([YourPhotoURL](https://github.com/CrazyBayes/konghe.github.io/blob/main/HeKong.jpg))
+![He Kong]([YourPhotoURL](/HeKong.jpg))
 
 ## About Me
 
