@@ -1,24 +1,24 @@
 # Your Name
 
-![Profile Photo](YourPhotoURL)
+![He Kong]([YourPhotoURL](https://github.com/CrazyBayes/konghe.github.io/blob/main/HeKong.jpg))
 
 ## About Me
 
-Hello! I am **Your Name**, a computer scientist specializing in multi-agent reinforcement learning. I am passionate about the interaction and collaboration among agents and am dedicated to developing algorithms that perform well in complex environments.
+Hello! I am **He Kong**, a  Ph.D. Candidate in Artificial Intelligence at the School of Artificial Intelligence, Jilin University, Changchun, China. I am passionate about the interaction and collaboration among agents and am dedicated to developing algorithms that perform well in complex environments. Now, I am interested in multi-agent reinforcement learning and LLM Agent.
 
 ## Education
 
-- **Ph.D. in Computer Science**, University Name, Year
-- **M.Sc. in Computer Science**, University Name, Year
-- **B.Sc. in Computer Science**, University Name, Year
+- **Ph.D. in Artificial Intelligence**, Jilin University, 2024- To Date
+- **M.Sc. in Computer Application Technology**, Jili  University, 2022-2019
+- **B.Sc. in Software Engineering**, Qufu Normal University, 2015-2019
 
 ## Publications
 
-### [Paper Title 1](PaperLink)
-*Journal/Conference Name, Year*. Brief description of the paper.
+### [Flexible model weighting for one-dependence estimators based on point-wise independence analysis](https://doi.org/10.1016/j.patcog.2023.109473)
+*Pattern Recogtion, 2023*.
 
-### [Paper Title 2](PaperLink)
-*Journal/Conference Name, Year*. Brief description of the paper.
+### [Averaged tree-augmented one-dependence estimators](https://doi.org/10.1007/s10489-020-02064-w)
+*Applied Intelligence, 2021.
 
 <!-- Add more publications as needed -->
 
