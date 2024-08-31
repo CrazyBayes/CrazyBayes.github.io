@@ -15,10 +15,10 @@ Hello! I am **He Kong**, a  Ph.D. Candidate in Artificial Intelligence at the Sc
 ## Publications
 
 ### [Flexible model weighting for one-dependence estimators based on point-wise independence analysis](https://doi.org/10.1016/j.patcog.2023.109473)
-*Pattern Recogtion, 2023*.
+**He Kong** and Limin Wang,***Pattern Recogtion**, 2023*.
 
 ### [Averaged tree-augmented one-dependence estimators](https://doi.org/10.1007/s10489-020-02064-w)
-*Applied Intelligence, 2021.
+**He Kong**, Xiaohu Shi, Limin Wang, Yang Liu, Musa Mammadov, Gaojie Wang,***Applied Intelligence**, 2021".
 
 <!-- Add more publications as needed -->
 
