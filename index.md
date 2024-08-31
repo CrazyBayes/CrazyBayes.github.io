@@ -1,6 +1,6 @@
 # Your Name
 
-![He Kong]([YourPhotoURL](/HeKong.jpg))
+![He Kong](/HeKong.jpg)
 
 ## About Me
 
