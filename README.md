@@ -44,7 +44,7 @@ Brief description of the project, including your role and the technologies used.
 
 ## Contact Me
 
-- **Email:** [YourEmail](konghe19@mails.jlu.edu.cn)(konghe24@mails.jlu.edu.cn)
+- **Email:** (konghe19@mails.jlu.edu.cn) Or (konghe24@mails.jlu.edu.cn)
 - **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)
 
 ---
