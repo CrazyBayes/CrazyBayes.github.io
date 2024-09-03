@@ -20,7 +20,7 @@ Hello! I am **He Kong**, a  Ph.D. Candidate in Artificial Intelligence at the Sc
 ### [Averaged tree-augmented one-dependence estimators](https://doi.org/10.1007/s10489-020-02064-w)
 **He Kong**, Xiaohu Shi, Limin Wang, Yang Liu, Musa Mammadov, Gaojie Wang, ***Applied Intelligence**, 2021*.
 
-### [ScreenAgent: A Vision Language Model-driven Computer Control Agent](https://github.com/niuzaisheng/ScreenAgent)
+### [ScreenAgent: A vision language model-driven computer control agent](https://github.com/niuzaisheng/ScreenAgent)
 Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, **He Kong**, Yi Chang, Qi Wang, ***IJCAI2024**, 2023*.
 
 ### [From undirected dependence to directed causality: A novel Bayesian learning approach](https://doi.org/10.1007/s10489-020-02064-w)
