@@ -8,8 +8,8 @@ Hello! I am **He Kong**, a  Ph.D. Candidate in Artificial Intelligence at the Sc
 
 ## Education
 
-- **Ph.D. in Artificial Intelligence**, Jilin University, 2024- To Date
-- **M.Sc. in Computer Application Technology**, Jili  University, 2022-2019
+- **Ph.D. in Artificial Intelligence**, Jilin University & Engineering Research Center of Knowledge-Driven Human–Machine Intelligence of Ministry of Education, 2024- To Date
+- **M.Sc. in Computer Application Technology**, Jili  University & Key Laboratory of Symbolic Computation and Knowledge Engineering of Ministry of Education, 2022-2019
 - **B.Sc. in Software Engineering**, Qufu Normal University, 2015-2019
 
 ## Publications
@@ -30,29 +30,27 @@ Limin Wang, Hangqi Fan and **He Kong**, ***Intelligent Data Analysis**, 2022*.
 
 ## Projects
 
-### [Project Name 1](ProjectLink)
-Brief description of the project, including your role and the technologies used.
+### [XXXXXX]
+Protected projects & Project team participants
 
-### [Project Name 2](ProjectLink)
-Brief description of the project, including your role and the technologies used.
 
 <!-- Add more projects as needed -->
 
-## Awards
+## Representative Awards
 
-- **Award Name**, Organization, Year
-  - Brief description of the award and the achievement.
+- **Graduate National Scholarship**, Ministry of Education of the People's Republic of China, 2021
 
-- **Award Name**, Organization, Year
-  - Brief description of the award and the achievement.
+- **HuaWei Scholarship**, Jilin University & Huawei, 2020
+  
+- **National Endeavor Fellowship**，  Ministry of Education of the People's Republic of China, 2017 & 2018
 
 <!-- Add more awards as needed -->
 
 ## Contact Me
 
 - **Email:** (konghe19@mails.jlu.edu.cn) Or (konghe24@mails.jlu.edu.cn)
-- **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- **GitHub:** [CrazyBayes](https://github.com/CrazyBayes)
 
 ---
 
-&copy; 2024 Your Name. All rights reserved.
+&copy; 2024 He Kong. All rights reserved.
