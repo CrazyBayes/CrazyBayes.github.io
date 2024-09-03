@@ -42,7 +42,7 @@ Protected projects & Project team participants
 
 - **HuaWei Scholarship**, Jilin University & Huawei, 2020
   
-- **National Endeavor Fellowship**，  Ministry of Education of the People's Republic of China, 2017 & 2018
+- **National Endeavor Fellowship**，Ministry of Education of the People's Republic of China, 2017 & 2018
 
 <!-- Add more awards as needed -->
 
