@@ -1,6 +1,7 @@
 # He Kong
 
-![He Kong](/HeKong.jpg "width="50%" height="50%">)
+![He Kong]<img src="/HeKong.jpg" width="50%" height="50%">
+
 
 ## About Me
 
