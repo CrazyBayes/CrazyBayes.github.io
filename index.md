@@ -1,6 +1,6 @@
 # He Kong
 
-<img src="/HeKong.jpg" width="20%" height="20%" align = "left">
+<img src="/HeKong.jpg" width="21%" height="21%" align = "left">
 
 
 ## About Me
