@@ -10,7 +10,7 @@ Hello! I am **He Kong**, a  Ph.D. Candidate in Artificial Intelligence at the Sc
 ## Education
 
 - **Ph.D. in Artificial Intelligence**, Jilin University & Engineering Research Center of Knowledge-Driven Human–Machine Intelligence of Ministry of Education, 2024- To Date
-- **M.Sc. in Computer Application Technology**, Jili  University & Key Laboratory of Symbolic Computation and Knowledge Engineering of Ministry of Education, 2022-2019
+- **M.Sc. in Computer Application Technology**, Jili  University & Key Laboratory of Symbolic Computation and Knowledge Engineering of Ministry of Education, 2019-2022
 - **B.Sc. in Software Engineering**, Qufu Normal University, 2015-2019
 
 ## Publications
