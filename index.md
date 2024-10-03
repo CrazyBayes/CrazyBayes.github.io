@@ -34,6 +34,10 @@ Limin Wang, Hangqi Fan and **He Kong**, ***Intelligent Data Analysis**, 2022*.
 ### [XXXXXX]
 Protected projects & Project team participants
 
+## Service 
+**Journal reviewer:** Neural Networks, Information Sciences, Applied Intelligence, Journal of Big Data, The Journal of Supercomputing
+**Conference reviewer:** IJCAI2024
+
 
 <!-- Add more projects as needed -->
 
