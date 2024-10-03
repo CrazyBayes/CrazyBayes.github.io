@@ -36,6 +36,7 @@ Protected projects & Project team participants
 
 ## Service 
 **Journal reviewer:** Neural Networks, Information Sciences, Applied Intelligence, Journal of Big Data, The Journal of Supercomputing
+
 **Conference reviewer:** IJCAI2024
 
 
