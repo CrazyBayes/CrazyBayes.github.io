@@ -1,6 +1,6 @@
 # He Kong
 
-<div style="float:left; width:21%; margin-right:20px;">
+<div style="float:left; width:25%; margin-right:25px;">
     <img src="/HeKong.jpg" width="100%" height="100%">
 </div>
 
