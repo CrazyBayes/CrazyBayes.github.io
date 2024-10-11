@@ -1,6 +1,8 @@
 # He Kong
 
-<img src="/HeKong.jpg" width="21%" height="21%" align = "left">
+<div style="float:left; width:21%; margin-right:20px;">
+    <img src="/HeKong.jpg" width="100%" height="100%">
+</div>
 
 
 ## About Me
