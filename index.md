@@ -1,4 +1,4 @@
-# He Kong
+<--# He Kong-->
 
 <div style="float:left; width:25%; margin-right:25px;">
     <img src="/HeKong.jpg" width="100%" height="100%">
