@@ -13,66 +13,27 @@
       background: linear-gradient(to bottom, #f0f4f8, #ffffff);
       color: #222;
     }
-
-    /* 修改后的头部样式 */
-    .hero {
+     .hero {
       background: linear-gradient(to right, #003973, #e5e5be);
       padding: 60px 20px;
     }
-
-    .profile-container {
-      display: flex;
-      align-items: center;
-      max-width: 1200px;
-      margin: 0 auto;
-      gap: 50px;
-    }
-
-    .profile-image-wrapper {
-      flex-shrink: 0;
-      width: 220px; /* 控制容器大小 */
-    }
-
-    .profile-image {
-      width: 100%;
-      height: auto;
+    .hero img {
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
       border: 4px solid white;
-      aspect-ratio: 1/1; /* 保持正方形 */
-      object-fit: cover; /* 保持图片比例 */
+      margin-bottom: 20px;
     }
-
-    .profile-text {
-      color: white;
-      flex-grow: 1;
-    }
-
-    .profile-text h1 {
+    .hero h1 {
       font-size: 2.8em;
-      margin: 0 0 15px;
+      margin: 0 0 10px;
     }
-
-    .profile-text p {
+    .hero p {
       font-size: 1.2em;
-      margin: 0;
+      max-width: 600px;
+      margin: 0 auto;
     }
 
-    @media (max-width: 768px) {
-      .profile-container {
-        flex-direction: column;
-        text-align: center;
-        gap: 30px;
-      }
-      
-      .profile-image-wrapper {
-        width: 180px;
-      }
-      
-      .profile-text h1 {
-        font-size: 2.2em;
-      }
-    }
-
-    /* 保持原有其他样式 */
     .container {
       max-width: 960px;
       margin: auto;
@@ -95,25 +56,42 @@
       padding-bottom: 8px;
     }
 
-    /* 其他样式保持不变... */
+    ul { padding-left: 20px; }
+    li { margin-bottom: 10px; }
+
+    a {
+      color: #003973;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .pub-item {
+      margin-bottom: 16px;
+    }
+
+    .footer {
+      text-align: center;
+      color: #888;
+      font-size: 0.9em;
+      padding: 20px;
+    }
+
+    @media (max-width: 600px) {
+      .hero h1 { font-size: 2em; }
+    }
   </style>
 </head>
 <body>
 
-  <!-- 修改后的头部 -->
   <div class="hero">
-    <div class="profile-container">
-      <div class="profile-image-wrapper">
-        <img src="HeKong.jpg" alt="He Kong" class="profile-image">
-      </div>
-      <div class="profile-text">
-        <h1>He Kong</h1>
-        <p>Ph.D. Candidate in Artificial Intelligence · Jilin University</p>
-      </div>
-    </div>
+    <img src="HeKong.jpg" alt="He Kong">
+    <h1>He Kong</h1>
+    <p>Ph.D. Candidate in Artificial Intelligence · Jilin University</p>
   </div>
 
-  <!-- 完整保留原有内容 -->
   <div class="container">
 
     <section>
@@ -130,7 +108,65 @@
       </ul>
     </section>
 
-    <!-- 完整保留其他部分... -->
+    <section>
+      <h2>Publications</h2>
+      <div class="pub-item">
+        <a href="https://doi.org/10.1109/TITS.2025.3562302">
+          ADAC: Actor-Double-attention-critic for Multi-agent Cooperation in Mixed Cooperative-competitive Environments
+        </a><br/>
+        He Kong, Qianli Xing*, Qi Wang, Hechang Chen, Runliang Niu, Yu Wang, Shiqi Wang, Zhiyi Duan, Yi Chang<br/>
+        <em>IEEE Transactions on Intelligent Transportation Systems</em>, 2025 (In Press)
+      </div>
+
+      <div class="pub-item">
+        <a href="https://doi.org/10.1016/j.patcog.2023.109473">
+          Flexible model weighting for one-dependence estimators based on point-wise independence analysis
+        </a><br/>
+        He Kong, Limin Wang<br/>
+        <em>Pattern Recognition</em>, 2023
+      </div>
+
+      <div class="pub-item">
+        <a href="https://doi.org/10.1007/s10489-020-02064-w">
+          Averaged tree-augmented one-dependence estimators
+        </a><br/>
+        He Kong, Xiaohu Shi, Limin Wang, Yang Liu, Musa Mammadov, Gaojie Wang<br/>
+        <em>Applied Intelligence</em>, 2021
+      </div>
+
+      <div class="pub-item">
+        <a href="#">
+          Learn to Explain Transformer via Interpretation Path by Reinforcement Learning
+        </a><br/>
+        Runliang Niu, Qi Wang, He Kong, Qianli Xing, Yi Chang, Philip S. Yu<br/>
+        <em>Neural Networks</em>, 2025 (In Press)
+      </div>
+
+      <div class="pub-item">
+        <a href="https://github.com/niuzaisheng/ScreenAgent">
+          ScreenAgent: A vision language model-driven computer control agent
+        </a><br/>
+        Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang<br/>
+        <em>Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)</em>, 2024
+      </div>
+
+      <div class="pub-item">
+        <a href="https://doi.org/10.1007/s10489-020-02064-w">
+          From undirected dependence to directed causality: A novel Bayesian learning approach
+        </a><br/>
+        Limin Wang, Hangqi Fan, He Kong<br/>
+        <em>Intelligent Data Analysis</em>, 2022
+      </div>
+    </section>
+
+    <section>
+      <h2>Representative Awards</h2>
+      <ul>
+        <li><strong>Graduate National Scholarship</strong>, Ministry of Education of the PRC, 2021</li>
+        <li><strong>Huawei Scholarship</strong>, Jilin University & Huawei, 2020</li>
+        <li><strong>National Endeavor Fellowship</strong>, Ministry of Education of the PRC, 2017 & 2018</li>
+      </ul>
+    </section>
 
     <section>
       <h2>Contact</h2>
@@ -138,8 +174,10 @@
       <p>GitHub: <a href="https://github.com/CrazyBayes" target="_blank">CrazyBayes</a></p>
     </section>
 
-    <div class="footer">&copy; 2025 He Kong. All rights reserved.</div>
+    <div class="footer">&copy; 2024 He Kong. All rights reserved.</div>
 
   </div>
 </body>
 </html>
+
+这个代码我想改一下，这是我的github的主页，首先是照片部分不应该放中间，最好是放在一侧，然后是方形的外边，旁边是文字，请帮我改一下
