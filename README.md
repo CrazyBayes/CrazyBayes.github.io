@@ -14,11 +14,17 @@ Hello! I am **He Kong**, a  Ph.D. Candidate in Artificial Intelligence at the Sc
 
 ## Publications
 
+### [ADAC: Actor-Double-attention-critic for Multi-agent Cooperation in Mixed Cooperative-competitive Environments](https://doi.org/10.1109/TITS.2025.3562302)
+**He Kong** Qianli Xing*, Qi Wang, Hechang Chen, Runliang Niu, Yu Wang, Shiqi Wang, Zhiyi Duan, Yi Chang, ***IEEE Transactions on Intelligent Transportation Systems**, 2025 (In Press)*.
+
 ### [Flexible model weighting for one-dependence estimators based on point-wise independence analysis](https://doi.org/10.1016/j.patcog.2023.109473)
 **He Kong** and Limin Wang, ***Pattern Recogtion**, 2023*.
 
 ### [Averaged tree-augmented one-dependence estimators](https://doi.org/10.1007/s10489-020-02064-w)
 **He Kong**, Xiaohu Shi, Limin Wang, Yang Liu, Musa Mammadov, Gaojie Wang, ***Applied Intelligence**, 2021*.
+
+### [Learn to Explain Transformer via Interpretation Path by Reinforcement Learning](https://doi.org/)
+Runliang Niu, Qi Wang, **He Kong**, Qianli Xing, Yi Chang, Philip S. Yu., ***Neural Networks**, 2025*.
 
 ### [ScreenAgent: A vision language model-driven computer control agent](https://github.com/niuzaisheng/ScreenAgent)
 Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, **He Kong**, Yi Chang, Qi Wang, ***IJCAI2024**, 2023*.
