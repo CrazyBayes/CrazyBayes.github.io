@@ -14,10 +14,10 @@
       color: #222;
     }
 
-    /* 修改后的头部样式 */
+    /* 优化后的头部样式 */
     .hero {
-      background: linear-gradient(to right, #003973, #e5e5be);
-      padding: 60px 20px;
+      background: linear-gradient(to right, #003973, #2a5696);
+      padding: 40px 20px;
     }
 
     .profile-container {
@@ -25,20 +25,24 @@
       align-items: center;
       max-width: 1200px;
       margin: 0 auto;
-      gap: 50px;
+      gap: 40px;
     }
 
     .profile-image-wrapper {
-      flex-shrink: 0;
-      width: 200px;
+      flex: 0 0 160px;
+      position: relative;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+      border: 3px solid rgba(255,255,255,0.9);
     }
 
     .profile-image {
       width: 100%;
       height: auto;
-      border: 4px solid white;
-      border-radius: 8px; /* 方形圆角 */
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      display: block;
+      aspect-ratio: 1/1;
+      object-fit: cover;
     }
 
     .profile-text {
@@ -47,14 +51,16 @@
     }
 
     .profile-text h1 {
-      font-size: 2.8em;
-      margin: 0 0 15px;
+      font-size: 2.4em;
+      margin: 0 0 12px;
+      letter-spacing: -0.5px;
     }
 
     .profile-text p {
-      font-size: 1.2em;
+      font-size: 1.1em;
       margin: 0;
       line-height: 1.6;
+      opacity: 0.95;
     }
 
     @media (max-width: 768px) {
@@ -65,19 +71,20 @@
       }
       
       .profile-image-wrapper {
-        width: 180px;
+        flex: 0 0 140px;
+        width: 140px;
       }
       
       .profile-text h1 {
-        font-size: 2.2em;
+        font-size: 2em;
       }
     }
 
-    /* 保持原有其他样式 */
+    /* 保持内容区域样式 */
     .container {
       max-width: 960px;
       margin: auto;
-      padding: 30px 20px;
+      padding: 40px 20px;
     }
 
     section {
@@ -102,31 +109,51 @@
     a {
       color: #003973;
       text-decoration: none;
+      transition: color 0.2s;
     }
 
     a:hover {
+      color: #2a5696;
       text-decoration: underline;
     }
 
     .pub-item {
-      margin-bottom: 16px;
+      margin-bottom: 20px;
+      line-height: 1.5;
+    }
+
+    .pub-item em {
+      color: #666;
+      font-style: normal;
+      display: block;
+      margin-top: 4px;
+      font-size: 0.95em;
     }
 
     .footer {
       text-align: center;
       color: #888;
       font-size: 0.9em;
-      padding: 20px;
+      padding: 30px 20px;
+      margin-top: 40px;
     }
 
-    @media (max-width: 600px) {
-      .profile-text h1 { font-size: 2em; }
+    @media (max-width: 480px) {
+      .hero {
+        padding: 30px 15px;
+      }
+      
+      .profile-text h1 {
+        font-size: 1.8em;
+      }
+      
+      section {
+        padding: 25px;
+      }
     }
   </style>
 </head>
 <body>
-
-  <!-- 修改后的头部 -->
   <div class="hero">
     <div class="profile-container">
       <div class="profile-image-wrapper">
@@ -139,15 +166,13 @@
     </div>
   </div>
 
-  <!-- 完整保留原有内容 -->
   <div class="container">
-
+    <!-- 完整保留所有内容 -->
     <section>
       <h2>About Me</h2>
       <p>Hello! I am <strong>He Kong</strong>, a Ph.D. candidate at the School of Artificial Intelligence, Jilin University. I study interaction and coordination among intelligent agents and develop algorithms for complex environments. My research currently focuses on multi-agent reinforcement learning and LLM-powered agents.</p>
     </section>
 
-    <!-- 完整保留教育经历 -->
     <section>
       <h2>Education</h2>
       <ul>
@@ -157,21 +182,20 @@
       </ul>
     </section>
 
-    <!-- 完整保留出版物 -->
     <section>
       <h2>Publications</h2>
       <div class="pub-item">
         <a href="https://doi.org/10.1109/TITS.2025.3562302">
           ADAC: Actor-Double-attention-critic for Multi-agent Cooperation in Mixed Cooperative-competitive Environments
-        </a><br/>
-        He Kong, Qianli Xing*, Qi Wang, Hechang Chen, Runliang Niu, Yu Wang, Shiqi Wang, Zhiyi Duan, Yi Chang<br/>
-        <em>IEEE Transactions on Intelligent Transportation Systems</em>, 2025 (In Press)
+        </a>
+        <em>IEEE Transactions on Intelligent Transportation Systems, 2025 (In Press)</em>
+        <br/>He Kong, Qianli Xing*, Qi Wang, Hechang Chen, Runliang Niu, Yu Wang, Shiqi Wang, Zhiyi Duan, Yi Chang
       </div>
 
-      <!-- 其他出版物保持不变... -->
+      <!-- 其他出版物保持相同结构 -->
+      
     </section>
 
-    <!-- 完整保留获奖信息 -->
     <section>
       <h2>Representative Awards</h2>
       <ul>
@@ -181,15 +205,13 @@
       </ul>
     </section>
 
-    <!-- 完整保留联系信息 -->
     <section>
       <h2>Contact</h2>
       <p>Email: <a href="mailto:konghe19@mails.jlu.edu.cn">konghe19@mails.jlu.edu.cn</a> | <a href="mailto:konghe24@mails.jlu.edu.cn">konghe24@mails.jlu.edu.cn</a></p>
       <p>GitHub: <a href="https://github.com/CrazyBayes" target="_blank">CrazyBayes</a></p>
     </section>
 
-    <div class="footer">&copy; 2025 He Kong. All rights reserved.</div>
-
+    <div class="footer">&copy; 2024 He Kong. All rights reserved.</div>
   </div>
 </body>
 </html>
