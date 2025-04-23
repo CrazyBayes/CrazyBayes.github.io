@@ -24,7 +24,7 @@ Hello! I am **He Kong**, a  Ph.D. Candidate in Artificial Intelligence at the Sc
 **He Kong**, Xiaohu Shi, Limin Wang, Yang Liu, Musa Mammadov, Gaojie Wang, ***Applied Intelligence**, 2021*.
 
 ### [Learn to Explain Transformer via Interpretation Path by Reinforcement Learning](https://doi.org/)
-Runliang Niu, Qi Wang, **He Kong**, Qianli Xing, Yi Chang, Philip S. Yu., ***Neural Networks**, 2025*.
+Runliang Niu, Qi Wang, **He Kong**, Qianli Xing, Yi Chang, Philip S. Yu., ***Neural Networks**, 2025 (In Press)*.
 
 ### [ScreenAgent: A vision language model-driven computer control agent](https://github.com/niuzaisheng/ScreenAgent)
 Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, **He Kong**, Yi Chang, Qi Wang, ***IJCAI2024**, 2023*.
